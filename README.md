@@ -1,7 +1,7 @@
 <h1> Welcome to my treasure box of projects! </h1>
 
 <p> 
-By day, I am a software engineer. I am looking to bring visions to life, and turn ideas into reality.  
+A software engineer by day, and an amateur powerlifter by also day. I am looking to bring visions to life, and turn ideas into reality.  
 </p>
 
 
