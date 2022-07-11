@@ -1,13 +1,17 @@
 <h1> Welcome to my treasure box of projects! </h1>
 
-<p> 
-By day, I am a software engineer. I am looking to bring visions to life, and turn ideas into reality.  
-</p>
+
 
 
 <h2> What I am currently working on :</h2>
 <ul>
-<li>Creating a nutrition calculator</li>
-<li>Learning HTML/CSS/JavaScript</li>
-<li>Implementing API's into my application</li>
+<li> A fullstack web application using Django/Python to implement full CRUD functionalities, as well as authentication and authorization</li>
+<li> Learning more about ReactJS!</li>
+</ul>
+
+<h2> My Projects</h2>
+<ul>
+<li> BTWN U+I</li>
+<li> Progress Tracker</li>
+<li> Nutrition Calculator</li>
 </ul>
